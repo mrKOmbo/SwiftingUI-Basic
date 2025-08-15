@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "4c71bb00f12ca367",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a642e3821fad99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c30c1ba05bb5ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello World!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello World!"
+            }
+          },
+          {
+            "id": "8f2421afba42c95f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello World!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello World!"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8230d9922d24db95",
+    "type": "split",
+    "children": [
+      {
+        "id": "027759218a59308f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c4cb973f00fe14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01b883d3260ddb03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12f497f6f130e668",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "67d022323ab5708f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b13c26aa0eb58dfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb238be831c7103",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3e1dafc73673e290",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Components/Links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Links"
+            }
+          },
+          {
+            "id": "3a8e2ac17f61ba7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d1c9d463af7e9506",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Components/Links.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f2421afba42c95f",
+  "lastOpenFiles": [
+    "LEARNING/GENERAL/Index.md",
+    "Hello World!.md",
+    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/iOS_Animations_by_Tutorials_v6.0.pdf",
+    "LEARNING/UIKIT/projects/Learning with M I L O/Open project.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/What is SwiftUI?.md",
+    "LEARNING/SWIFTUI/projects/Learning with M I L O/Open project.md",
+    "LEARNING/SWIFTUI/五 Interacción y diseño/五 INDEX 五.md",
+    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/Basic Animations/1. Expand and reposition *.md",
+    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/Basic Animations/2. Basic Spinning Animation.md",
+    "resources/Pasted image 20250806132331.png",
+    "resources/Notes Videos/touch2.mov",
+    "resources/Notes Videos/touch.mov",
+    "resources/Notes Videos/Tin4.mov",
+    "resources/Notes Videos/Tin3.mov",
+    "resources/Notes Videos/Tin2.mov",
+    "resources/Notes Videos/Tin.mov",
+    "resources/Notes Videos",
+    "resources/Pasted image 20250724230847.png",
+    "resources/Pasted image 20250721225047.png",
+    "resources/Pasted image 20250714140007.png",
+    "resources/Pasted image 20250703161933.png",
+    "resources/Pasted image 20250703161848.png",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/一 INDEX 一.md",
+    "LEARNING/SWIFTUI/四 Rendimiento y buenas prácticas/四 INDEX 四.md",
+    "LEARNING/SWIFTUI/projects/Learning with M I L O.xcodeproj/project.xcworkspace/xcuserdata/milo.xcuserdatad/UserInterfaceState.xcuserstate",
+    "LEARNING/SWIFTUI/projects/Learning with M I L O.xcodeproj/project.xcworkspace/xcuserdata/milo.xcuserdatad",
+    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/projects/animations/Open Project.md",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/iOS & Swift/Beginner Swift 5.7.playground/Pages/Types and Variables - Naming.xcplaygroundpage/Resources/camel.png",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/iOS & Swift/Beginner Swift 5.7.playground/Pages/Types and Variables - Mutability.xcplaygroundpage/Resources/var.png",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/iOS & Swift/Beginner Swift 5.7.playground/Pages/Strings and Interpolation.xcplaygroundpage/Resources/yarn.png",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/iOS & Swift/Beginner Swift 5.7.playground/Pages/Other Operators.xcplaygroundpage/Resources/truck.png",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/¶ Index ¶.md",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/Catalyst_by_Tutorials_v1/¶.md",
+    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/What are the animations?.md",
+    "Users/milo/Develop/Swift/Notes/Swift/LEARNING/SWIFTUI/五.md",
+    "LEARNING/UIKIT/What is UIKit?.md",
+    "LEARNING/UIKIT/Index.md",
+    "LEARNING/SWIFTUI/十 Funcionalidades Avanzadas/Sync and Async/AsyncImages.md",
+    "LEARNING/SWIFTUI/十 Funcionalidades Avanzadas/Notifications/What are the notifications?.md",
+    "LEARNING/SWIFTUI/七  Fundamentos de SwiftUI/七 Index 七.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Objects and Classes/What are objects and classes?.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/What are modifiers?.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Functions and Closures/What are functions and closures?.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Functions and Closures/Specific Functions.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Functions and Closures/Closures.md"
+  ]
+}
