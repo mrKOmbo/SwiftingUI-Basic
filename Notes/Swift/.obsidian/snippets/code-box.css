@@ -1,0 +1,17 @@
+.code-box {
+  background-color: var(--code-background);
+  color: var(--code-normal);
+  padding: 16px;
+  border-radius: 8px;
+  font-family: var(--font-monospace);
+  font-size: var(--code-size);
+  overflow-x: auto;
+  white-space: pre;
+}
+
+/* Opcionalmente puedes aplicar coloreado manual si deseas Swift específico */
+.code-box .keyword { color: #ff7ab2; font-weight: bold; }
+.code-box .type { color: #82aaff; }
+.code-box .function { color: #c3e88d; }
+.code-box .property { color: #f78c6c; }
+

@@ -1,0 +1,8 @@
+.recuadro {
+  background-color: #000000;   /* Fondo negro */
+  color: #ffffff;              /* Texto blanco */
+  border: 2px solid #ffffff;   /* Borde blanco */
+  padding: 12px;               /* Espacio interno */
+  border-radius: 8px;          /* Esquinas redondeadas */
+  margin: 10px 0;              /* Margen exterior */
+}

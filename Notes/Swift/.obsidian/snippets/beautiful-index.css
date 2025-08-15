@@ -1,0 +1,87 @@
+/* General styling for the Markdown preview */
+.markdown-preview-view {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Headings */
+h1 {
+    font-size: 2em;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* List styling for the index */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+/* Nested lists */
+ul ul {
+    margin-left: 20px;
+    border-left: 2px solid #ecf0f1;
+    padding-left: 15px;
+}
+
+/* Links */
+a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #e74c3c;
+    text-decoration: underline;
+}
+
+/* Styling for list items with links */
+li a {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+li a:hover {
+    background-color: #f8f9fa;
+}
+
+/* Hover effect for nested list items */
+ul ul li a:hover {
+    background-color: #ecf0f1;
+}
+
+/* Add subtle background to the entire list for better grouping */
+.markdown-preview-view ul {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 600px) {
+    .markdown-preview-view {
+        padding: 10px;
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+    li {
+        font-size: 1em;
+    }
+}

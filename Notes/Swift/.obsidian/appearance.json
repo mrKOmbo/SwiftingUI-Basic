@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Atom",
+  "accentColor": "#6e4ce6",
+  "interfaceFontFamily": "Euphemia UCAS",
+  "baseFontSize": 12,
+  "enabledCssSnippets": [
+    "table-styles",
+    "beautiful-index",
+    "recuadro",
+    "code-box",
+    "embed-card"
+  ]
+}
