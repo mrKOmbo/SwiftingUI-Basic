@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEARNING/SWIFTUI/一 Introducción a SwiftUI/What is SwiftUI?.md",
+                "file": "LEARNING/GENERAL/Data Structures/Complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is SwiftUI?"
+              "title": "Complexity"
             }
           }
         ],
@@ -185,6 +185,8 @@
   },
   "active": "56c81747a248d08b",
   "lastOpenFiles": [
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/What is SwiftUI?.md",
+    "LEARNING/GENERAL/Data Structures/Complexity.md",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1~HEAD",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/xcuserdata/milo.xcuserdatad/xcschemes/xcschememanagement.plist",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Model/HighScoreDataModel.xcdatamodeld/HighScoreDataModel.xcdatamodel/contents",
@@ -195,13 +197,11 @@
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Assets.xcassets/AppIcon.appiconset/Contents.json",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Assets.xcassets/AccentColor.colorset/Contents.json",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/xcshareddata/xcschemes",
     "LEARNING/GENERAL/Data Structures/Complexity.md",
     "Pasted image 20250820182516.png",
     "Pasted image 20250820182342.png",
     "Pasted image 20250820182341.png",
     "resources/Pasted image 20250820181515.png",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/What is SwiftUI?.md",
     "LEARNING/GENERAL/Data Structures/Dictionary.md",
     "LEARNING/GENERAL/Data Structures/Arrays.md",
     "LEARNING/GENERAL/Index.md",
