@@ -35,3 +35,6 @@ Todas las **variables** y **constantes** deben tener un valor asociado
 ## Types
 Hay diferentes tipos de datos que se le pueden asignar a un variable:
 - Primitive Types
+
+## Cuál es la diferencia entre var y let
+El uso de memoria, apple asigna un espacio adicional para la edición de esta pero una constante siempre va a tener el tamaño asignado.

@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a642e3821fad99",
+        "id": "5d93f1f2dc77d657",
         "type": "tabs",
         "children": [
           {
-            "id": "8f2421afba42c95f",
+            "id": "f3185c2e32e6f4a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEARNING/GENERAL/Data Structures/Arrays.md",
+                "file": "Hello World!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "Hello World!"
             }
           },
           {
-            "id": "56c81747a248d08b",
+            "id": "03ef432ff82b1aff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEARNING/GENERAL/Data Structures/Complexity.md",
+                "file": "LEARNING/GENERAL/Protocol/Protocol types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complexity"
+              "title": "Protocol types"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +182,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56c81747a248d08b",
+  "active": "f3185c2e32e6f4a4",
   "lastOpenFiles": [
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/What is SwiftUI?.md",
+    "LEARNING/GENERAL/Index.md",
+    "LEARNING/GENERAL/Data Structures/Set.md",
+    "Hello World!.md",
+    "LEARNING/GENERAL/Data Structures/Arrays.md",
     "LEARNING/GENERAL/Data Structures/Complexity.md",
+    "LEARNING/GENERAL/Protocol/Protocol types.md",
+    "LEARNING/GENERAL/Data Structures/Dictionary.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/一 INDEX 一.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/1. Appearance Modifiers.md",
+    "LEARNING/GENERAL/Protocol",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/What are modifiers?.md",
+    "Pasted image 20250825174552.png",
+    "Pasted image 20250825174112.png",
+    "Pasted image 20250825173650.png",
+    "Pasted image 20250825173628.png",
+    "Pasted image 20250825173607.png",
+    "LEARNING/GENERAL/Variables/What are the variables?.md",
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/What is SwiftUI?.md",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1~HEAD",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/xcuserdata/milo.xcuserdatad/xcschemes/xcschememanagement.plist",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Model/HighScoreDataModel.xcdatamodeld/HighScoreDataModel.xcdatamodel/contents",
@@ -196,25 +211,13 @@
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Model/HighScoreDataModel.xcdatamodeld/HighScoreDataModel.xcdatamodel",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Assets.xcassets/AppIcon.appiconset/Contents.json",
     "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Assets.xcassets/AccentColor.colorset/Contents.json",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
-    "LEARNING/GENERAL/Data Structures/Complexity.md",
     "Pasted image 20250820182516.png",
     "Pasted image 20250820182342.png",
     "Pasted image 20250820182341.png",
     "resources/Pasted image 20250820181515.png",
-    "LEARNING/GENERAL/Data Structures/Dictionary.md",
-    "LEARNING/GENERAL/Data Structures/Arrays.md",
-    "LEARNING/GENERAL/Index.md",
     "LEARNING/GENERAL/Data Structures/Data_Structures_and_Algorithms_in_Swift_v3/一.md",
     "LEARNING/UIKIT/Index.md",
-    "Hello World!.md",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/一 INDEX 一.md",
     "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/19-custom-presentation-controller-and-device-orientation-animations/starter/BeginnerCook/Images.xcassets/AppIcon.appiconset/Icon-60@2x.png",
-    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/19-custom-presentation-controller-and-device-orientation-animations/projects/starter/BeginnerCook/Images.xcassets/AppIcon.appiconset/Icon-60@3x.png",
-    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/19-custom-presentation-controller-and-device-orientation-animations/projects/starter/BeginnerCook/Images.xcassets/AppIcon.appiconset/Icon-60@2x.png",
-    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/19-custom-presentation-controller-and-device-orientation-animations/projects/starter/BeginnerCook/Images.xcassets/AppIcon.appiconset/Icon-1024.png",
-    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/19-custom-presentation-controller-and-device-orientation-animations/projects/final/BeginnerCook/Images.xcassets/saffron.imageset/saffron.jpg",
-    "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/19-custom-presentation-controller-and-device-orientation-animations/projects/final/BeginnerCook/Images.xcassets/rosemary.imageset/rosemary.jpg",
     "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/01-introduction-to-animations-in-swiftui/starter/Credits.md",
     "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/01-introduction-to-animations-in-swiftui/completed/Credits.md",
     "LEARNING/SWIFTUI/五 Interacción y diseño/Interaction/Animations/iOS_Animations_by_Tutorials_v6/01-introduction-to-animations-in-swiftui/challenges/Credits.md",
@@ -226,10 +229,6 @@
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/8. Special Modifiers.md",
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/6. Accessibility Modifiers.md",
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/7. Custom Modifiers.md",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/3. Interaction Modifiers.md",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/4. Transformation Modifiers.md",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/5. State Modifiers.md",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/2. Layout Modifiers.md",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/1. Appearance Modifiers.md"
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/3. Interaction Modifiers.md"
   ]
 }
