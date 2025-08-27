@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello World!.md",
+                "file": "LEARNING/GENERAL/Data Structures/Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello World!"
+              "title": "Arrays"
             }
           },
           {
@@ -184,33 +184,34 @@
   },
   "active": "f3185c2e32e6f4a4",
   "lastOpenFiles": [
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/test.xcplaygroundpage/Contents.swift",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/test.xcplaygroundpage",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/1. Data Structures.xcplaygroundpage/Contents.swift",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/1. Data Structures.xcplaygroundpage",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/Data Structures.xcplaygroundpage/Contents.swift",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/Data Structures.xcplaygroundpage",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/Untitled Page 2.xcplaygroundpage/Contents.swift",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/Untitled Page 2.xcplaygroundpage",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/Untitled Page.xcplaygroundpage/Contents.swift",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages/Untitled Page.xcplaygroundpage",
+    "LEARNING/GENERAL/projects SWIFTUI & UIKIT/learningWithM I L O.playground/Pages",
+    "LEARNING/GENERAL/Data Structures/Complexity.md",
+    "resources/Pasted image 20250825174552.png",
+    "Hello World!.md",
     "LEARNING/GENERAL/Index.md",
     "LEARNING/GENERAL/Data Structures/Set.md",
-    "Hello World!.md",
     "LEARNING/GENERAL/Data Structures/Arrays.md",
-    "LEARNING/GENERAL/Data Structures/Complexity.md",
     "LEARNING/GENERAL/Protocol/Protocol types.md",
     "LEARNING/GENERAL/Data Structures/Dictionary.md",
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/一 INDEX 一.md",
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/1. Appearance Modifiers.md",
-    "LEARNING/GENERAL/Protocol",
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/What are modifiers?.md",
-    "Pasted image 20250825174552.png",
-    "Pasted image 20250825174112.png",
-    "Pasted image 20250825173650.png",
-    "Pasted image 20250825173628.png",
-    "Pasted image 20250825173607.png",
+    "resources/Pasted image 20250825174112.png",
+    "resources/Pasted image 20250825173650.png",
+    "resources/Pasted image 20250825173628.png",
+    "resources/Pasted image 20250825173607.png",
     "LEARNING/GENERAL/Variables/What are the variables?.md",
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/What is SwiftUI?.md",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1~HEAD",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/xcuserdata/milo.xcuserdatad/xcschemes/xcschememanagement.plist",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Model/HighScoreDataModel.xcdatamodeld/HighScoreDataModel.xcdatamodel/contents",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/xcuserdata/milo.xcuserdatad/xcschemes",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/xcshareddata/xcschemes/CoreData1.xcscheme",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1.xcodeproj/xcshareddata/xcschemes/Spanish.xcscheme",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Model/HighScoreDataModel.xcdatamodeld/HighScoreDataModel.xcdatamodel",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Assets.xcassets/AppIcon.appiconset/Contents.json",
-    "LEARNING/SWIFTUI/八 Persistencia y Datos/Core Data/projects/CoreData1/CoreData1/Assets.xcassets/AccentColor.colorset/Contents.json",
     "Pasted image 20250820182516.png",
     "Pasted image 20250820182342.png",
     "Pasted image 20250820182341.png",
@@ -228,7 +229,6 @@
     "LEARNING/SWIFTUI/七  Fundamentos de SwiftUI/七 Index 七.md",
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/8. Special Modifiers.md",
     "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/6. Accessibility Modifiers.md",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/7. Custom Modifiers.md",
-    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/3. Interaction Modifiers.md"
+    "LEARNING/SWIFTUI/一 Introducción a SwiftUI/Modifiers/Types/7. Custom Modifiers.md"
   ]
 }
